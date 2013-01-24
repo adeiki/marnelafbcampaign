@@ -207,6 +207,6 @@ $app_name = idx($app_info, 'name', '');
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
     </script>
-    <div id="like-text">Tykkää ja osallistut 100€ arvoisen<br>Marinepool-tuote lahjakortin arvontaan!</div>
-
+    <div id="like-text">Tykkää ja osallistut 100€ arvoisen<br>Marinepool lahjakortin arvontaan!</div>
+    <div id="info-text">Marinepool 2013-mallisto ei jätä ketään kylmäksi. Kaikki asut ovat valmistettu korkealuokkaisista materiaaleista: kankaat ovat hengittäviä, sadeasuissa kaikki saumat on teipattu ja yksityiskohdat loppuun asti mietittyjä. Useista sarjoista löytyy tyylikkäitä ja toimivia vaihtoehtoja kaikkiin käyttötarkoituksiin. Marinepool asusteet istuvat hyvin suomalaisille, kiitos onnistuneen mitoituksen.</div>
 </html>

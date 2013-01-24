@@ -5,19 +5,23 @@
 
 #like-text {
   position: absolute;
-  top: 50px;
-  left: 300px;
+  top: 70px;
+  left: 360px;
+  font: 17px/1.5em "Lucida Grande", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 #info-text {
-
+  position: absolute;
+  top: 150px;
+  left: 500px;
 
 }
 
 /* =global elements
 --------------------------------------------- */
 body {
-  color: #999;
+  color: #fff;
   background: url('/images/marinepool-kilpailu.jpg') #fff;
   font: 14px/1.5em "Lucida Grande", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
