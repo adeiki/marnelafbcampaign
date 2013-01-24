@@ -19,6 +19,10 @@
   width: 248px;
 }
 
+p {
+  margin-bottom: 10px;
+}
+
 .small_marnela_button {
     background: url("http://www.marnela.fi/images/1/small_button.png") no-repeat scroll center top transparent;
     color: #FFFFFF;
@@ -38,7 +42,7 @@
 --------------------------------------------- */
 body {
   color: #535353;
-  background: url('/images/marinepool-kilpailu.jpg') #fff no-repeat scroll center top;
+  background: url('/images/marinepool-kilpailu.jpg') #fff no-repeat scroll left top;
   font: 14px/1.5em "Lucida Grande", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   width: 720px;
