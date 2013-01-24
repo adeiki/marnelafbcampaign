@@ -9,19 +9,35 @@
   left: 360px;
   font: 17px/1.5em "Lucida Grande", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
+  color: #fff;
 }
 
 #info-text {
   position: absolute;
   top: 150px;
-  left: 500px;
+  left: 540px;
+  width: 248px;
+}
 
+.small_marnela_button {
+    background: url("http://www.marnela.fi/images/1/small_button.png") no-repeat scroll center top transparent;
+    color: #FFFFFF;
+    font-size: 12px;
+    height: 27px;
+    line-height: 27px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    width: 130px;
+    display: block;
+    font-family: 'Arial','Verdana',Helvetica san-serif;
 }
 
 /* =global elements
 --------------------------------------------- */
 body {
-  color: #fff;
+  color: #535353;
   background: url('/images/marinepool-kilpailu.jpg') #fff;
   font: 14px/1.5em "Lucida Grande", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
