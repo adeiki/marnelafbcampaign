@@ -25,7 +25,7 @@
     font-size: 12px;
     height: 27px;
     line-height: 27px;
-    margin: 0 auto;
+    margin: 10px auto;
     position: relative;
     text-align: center;
     text-decoration: none;
@@ -38,7 +38,7 @@
 --------------------------------------------- */
 body {
   color: #535353;
-  background: url('/images/marinepool-kilpailu.jpg') #fff;
+  background: url('/images/marinepool-kilpailu.jpg') #fff no-repeat scroll center top;
   font: 14px/1.5em "Lucida Grande", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   width: 720px;

@@ -209,6 +209,6 @@ $app_name = idx($app_info, 'name', '');
     </script>
     <div id="like-text">Tykkää ja osallistut 100€ arvoisen<br>Marinepool lahjakortin arvontaan!</div>
     <div id="info-text"><p>Marinepool 2013-mallisto ei jätä ketään kylmäksi!</p><p>Kaikki Marinepool asut ovat valmistettu korkealuokkaisista materiaaleista: kankaat ovat hengittäviä, sadeasuissa kaikki saumat on teipattu ja yksityiskohdat loppuun asti mietittyjä.</p><p>Useista sarjoista löytyy tyylikkäitä ja toimivia vaihtoehtoja kaikkiin käyttötarkoituksiin. Marinepool asusteet istuvat hyvin suomalaisille, kiitos onnistuneen mitoituksen.</p>
-      <a class="small__marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com">Osta verkkokaupasta</a>
+      <a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com">Osta verkkokaupasta</a>
     </div>
 </html>
