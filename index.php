@@ -207,6 +207,6 @@ $app_name = idx($app_info, 'name', '');
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
     </script>
-    <img src="/images/marinepool-kilpailu.jpg">
+    <div id="like-text">Tykkää ja osallistut 100€ arvoisen<br>Marinepool-tuote lahjakortin arvontaan!</div>
 
 </html>

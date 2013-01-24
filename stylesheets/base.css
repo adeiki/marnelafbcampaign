@@ -3,10 +3,22 @@
 */
 
 
+#like-text {
+  position: absolute;
+  top: 50px;
+  left: 300px;
+}
+
+#info-text {
+
+
+}
+
 /* =global elements
 --------------------------------------------- */
 body {
   color: #999;
+  background: url('/images/marinepool-kilpailu.jpg') #fff;
   font: 14px/1.5em "Lucida Grande", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   width: 720px;
