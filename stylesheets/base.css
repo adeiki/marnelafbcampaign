@@ -6,7 +6,7 @@
 #like-text {
   position: absolute;
   top: 70px;
-  left: 330px;
+  left: 300px;
   font: 17px/1.5em "Lucida Grande", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #fff;
@@ -14,13 +14,13 @@
 
 #content {
   position: absolute;
-  top: 150px;
+  top: 130px;
   left: 0px;
 }
 
 #prize-text {
   position: absolute;
-  top: 150px;
+  top: 55px;
   left: 520px;
   width: 268px;
 }
@@ -33,6 +33,7 @@ p {
   background: url('/images/marnela-footer.jpg') #fff no-repeat scroll left top;
   width: 800px;
   margin: 0;
+  height: 35px;
 }
 
 .small_marnela_button {
