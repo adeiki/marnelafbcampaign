@@ -207,8 +207,15 @@ $app_name = idx($app_info, 'name', '');
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
     </script>
-    <div id="like-text">Tykkää ja osallistut 100€ arvoisen<br>Marinepool lahjakortin arvontaan!</div>
-    <div id="info-text"><p>Marinepool 2013-mallisto ei jätä ketään kylmäksi!</p><p>Kaikki Marinepool asut ovat valmistettu korkealuokkaisista materiaaleista: kankaat ovat hengittäviä, sadeasuissa kaikki saumat on teipattu ja yksityiskohdat loppuun asti mietittyjä.</p><p>Useista sarjoista löytyy tyylikkäitä ja toimivia vaihtoehtoja kaikkiin käyttötarkoituksiin. Marinepool asusteet istuvat hyvin suomalaisille, kiitos onnistuneen mitoituksen.</p>
-      <a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com">Osta verkkokaupasta</a>
+    <div id="like-text">Tykkää ja osallistut Marinepool<br>Executive Day Bag -laukun arvontaan!</div>
+    <div id="content">
+    <div id="prize"><img src="images/marinepool-executive-day-bag-silver.jpg"></div>
+    <div id="prize-text"><p>Marinepool 2014-mallisto täyttää kaikki odotukset!</p><p>
+      Arvomme kuvan Marinepool Executive Day Bag -laukun kun meillä on Facebookissa 500 tykkääjää. (Palkinnon arvo 109,90 €).</p><p>
+      Jos et malta odottaa omaasi, voit tilata kassin myös verkkokaupastamme - nyt joululahjatarjous hintaan!</p>
+      <!--<p>Kaikki Marinepool asut ovat valmistettu korkealuokkaisista materiaaleista: kankaat ovat hengittäviä, sadeasuissa kaikki saumat on teipattu ja yksityiskohdat loppuun asti mietittyjä.</p><p>Useista sarjoista löytyy tyylikkäitä ja toimivia vaihtoehtoja kaikkiin käyttötarkoituksiin. Marinepool asusteet istuvat hyvin suomalaisille, kiitos onnistuneen mitoituksen.</p>-->
+      <a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com/product/1001712S">Osta verkkokaupasta</a>
     </div>
+    <div id="footer"></div>
+   </div>
 </html>
