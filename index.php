@@ -213,7 +213,7 @@ $app_name = idx($app_info, 'name', '');
     <div id="prize-text"><p>Arvomme kuvan Marinepool Executive Day Bag -laukun kun meillä on Facebookissa 500 tykkääjää! (Palkinnon arvo 109,90 €).</p><p>
       Jos et malta odottaa omaasi, voit tilata kassin myös verkkokaupastamme - nyt joululahjatarjous-hintaan!</p>
       <!--<p>Kaikki Marinepool asut ovat valmistettu korkealuokkaisista materiaaleista: kankaat ovat hengittäviä, sadeasuissa kaikki saumat on teipattu ja yksityiskohdat loppuun asti mietittyjä.</p><p>Useista sarjoista löytyy tyylikkäitä ja toimivia vaihtoehtoja kaikkiin käyttötarkoituksiin. Marinepool asusteet istuvat hyvin suomalaisille, kiitos onnistuneen mitoituksen.</p>--><p>
-      <a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com/product/1001712S">Osta verkkokaupasta</a>
+      <a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com/product/1001712S" target="_blank">Osta verkkokaupasta</a>
       </p>
     </div>
     <div id="lifestyle"><img src="/images/marinepool-lifestyle.jpg"></div>
