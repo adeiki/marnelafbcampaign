@@ -214,7 +214,7 @@ $app_name = idx($app_info, 'name', '');
       Jos et malta odottaa omaasi, voit tilata kassin myös verkkokaupastamme - nyt joululahjatarjous-hintaan!</p>
       <!--<p>Kaikki Marinepool asut ovat valmistettu korkealuokkaisista materiaaleista: kankaat ovat hengittäviä, sadeasuissa kaikki saumat on teipattu ja yksityiskohdat loppuun asti mietittyjä.</p><p>Useista sarjoista löytyy tyylikkäitä ja toimivia vaihtoehtoja kaikkiin käyttötarkoituksiin. Marinepool asusteet istuvat hyvin suomalaisille, kiitos onnistuneen mitoituksen.</p>--><p>
       <a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com/product/1001712S" target="_blank">Osta verkkokaupasta</a>
-      </p><p>(päivitys: arvonta suoritetaan 30.12.2013)</p>
+      </p><p>Ps. Arvonta suoritetaan 30.12.2013. Vielä ehdit osallistua tykkäämällä!</p>
     </div>
     <div id="lifestyle"><img src="/images/marinepool-lifestyle.jpg"></div>
     <div id="footer"></div>
