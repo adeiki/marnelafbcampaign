@@ -210,9 +210,9 @@ $app_name = idx($app_info, 'name', '');
     <div id="like-text">Tykkää Marnelasta ja osallistut Vene 14<br>Båt -kutsukorttien arvontaan!</div>
     <div id="content">
     <div id="prize"><img src="/images/vene14-kutsut-kuva.jpg"></div>
-    <div id="prize-text"><p>Arvomme kaikkien faniemme kesken 5 kahden Vene 14 kutusukortin pakettia. Tykkää niin osallistut kutsukorttien arvontaan!</p>
+    <div id="prize-text"><p>Arvomme kaikkien faniemme kesken viisi kahden Venemessujen-kutsukortin pakettia. Tykkää meistä facebookissa venemessuihin mennessä niin osallistut kutsukorttien arvontaan!</p>
       <!--<p>Kaikki Marinepool asut ovat valmistettu korkealuokkaisista materiaaleista: kankaat ovat hengittäviä, sadeasuissa kaikki saumat on teipattu ja yksityiskohdat loppuun asti mietittyjä.</p><p>Useista sarjoista löytyy tyylikkäitä ja toimivia vaihtoehtoja kaikkiin käyttötarkoituksiin. Marinepool asusteet istuvat hyvin suomalaisille, kiitos onnistuneen mitoituksen.</p>--> 
-      <p>Arvonta suoritetaan 1.2.2014. Vielä ehdit osallistua tykkäämällä!</p>
+      <p>Arvonta suoritetaan 1.2.2014. Vielä ehdit osallistua tykkäämällä!</p><p>Messuja odotellessa voit tutustua uusiin tuotteisiin myös verkkokaupassamme.<br>&nbsp;</p>
       <p><a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com/" target="_blank">Tutustu verkkokaupaan</a></p>
     </div>
     <div id="lifestyle"><img src="/images/vene14-paakuva.jpg"></div>
