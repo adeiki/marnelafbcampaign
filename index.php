@@ -207,7 +207,7 @@ $app_name = idx($app_info, 'name', '');
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
     </script>
-    <div id="like-text">Tykkää Marnelasta ja osallistut Vene 14 Båt<br>-kutsukorttien arvontaan!</div>
+    <div id="like-text">Tykkää Marnelasta ja osallistut Vene 14<br>Båt -kutsukorttien arvontaan!</div>
     <div id="content">
     <div id="prize"><img src="/images/vene14-kutsut-kuva.jpg"></div>
     <div id="prize-text"><p>Arvomme kaikkien faniemme kesken 5 kahden Vene 14 kutusukortin pakettia. Tykkää niin osallistut kutsukorttien arvontaan!</p>
