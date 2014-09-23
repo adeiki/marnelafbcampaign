@@ -18,11 +18,15 @@
   left: 0px;
 }
 
+#prize {
+  height: 360px;
+}
+
 #prize-text {
   position: absolute;
-  top: 55px;
-  left: 520px;
-  width: 268px;
+  top: 25px;
+  left: 360px;
+  width: 428px;
 }
 
 p {
@@ -50,7 +54,7 @@ p.thousand {
 
 #lifestyle {
   width: 800px;
-  height: 390px;
+  height: 330px;
 }
 
 .small_marnela_button {
