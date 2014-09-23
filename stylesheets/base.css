@@ -6,7 +6,7 @@
 #like-text {
   position: absolute;
   top: 70px;
-  left: 320px;
+  left: 335px;
   font: 17px/1.5em "Lucida Grande", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #fff;
@@ -27,6 +27,7 @@
   top: 25px;
   left: 360px;
   width: 428px;
+  text-align: center;
 }
 
 p {
@@ -40,9 +41,9 @@ p.biglike {
 }
 
 p.thousand {
-  font-size: 70px;
+  font-size: 100px;
   font-weight: bold;
-  line-height: 75px;
+  line-height: 95px;
 }
 
 #footer {

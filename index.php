@@ -207,10 +207,10 @@ $app_name = idx($app_info, 'name', '');
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
     </script>
-    <div id="like-text">Tykkää Marnelasta ja voit voittaa<br>Crewsaver ErgoFit 190N Offshore paukkuliivit</div>
+    <div id="like-text">Tykkää Marnelasta ja voita Crewsaver<br>ErgoFit 190N Offshore paukkuliivit</div>
     <div id="content">
     <div id="prize"><img src="/images/ergofit-190n-os.jpg"></div>
-    <div id="prize-text"><p class="biglike">MARNELAN<br>ISO TYKKÄYS!</p>
+    <div id="prize-text"><p class="biglike">MARNELAN ISO TYKKÄYS!</p>
       <p>Fanikampanja jatkuu! Kun saamme</p><p class="thousand">1000</p><p>tykkääjää facebook sivuillemme arvomme kuvan mukaiset Crewsaver ErgoFit 190N Offshore liivit kaikkien tykkääjien kesken. Jos olet jo fani niin rekisteröidy verkkokauppaan, saat lisää etuja!
       <p><a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com/" target="_blank">Astu verkkokauppaan</a></p>
     </div>
