@@ -214,7 +214,7 @@ $app_name = idx($app_info, 'name', '');
      <p>Arvonta suoritetaan 5.2.2014. Vielä ehdit osallistua tykkäämällä!</p><p>Messuja odotellessa voit tutustua uusiin tuotteisiimme myös verkkokaupassamme.</p>
       <p><a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com/" target="_blank">Astu verkkokauppaan</a></p>
     </div>
-    <div id="lifestyle"><img src="/images/venemessut_marnela_5m21.jpg"></div>
+    <div id="lifestyle"><img src="/images/venemessut_marnela_5m21_fbcampaign.jpg"></div>
     <div id="footer"></div>
    </div>
 </html>

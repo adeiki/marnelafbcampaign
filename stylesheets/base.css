@@ -19,14 +19,19 @@
 }
 
 #prize {
-  height: 360px;
+  height: 300px;
 }
+
+#prize img {
+  padding: 10px;
+}
+
 
 #prize-text {
   position: absolute;
   top: 25px;
-  left: 410px;
-  width: 378px;
+  left: 430px;
+  width: 358px;
   text-align: center;
 }
 
@@ -59,7 +64,7 @@ p.thousand {
 }
 
 .small_marnela_button {
-    background: url("http://www.marnela.fi/wp-content/themes/rttheme11/images/1/small_button.png") no-repeat scroll center top transparent;
+    background: url('/images/small_button.png') no-repeat scroll center top transparent;
     color: #FFFFFF;
     font-size: 12px;
     height: 27px;
