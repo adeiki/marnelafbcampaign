@@ -109,6 +109,10 @@ $app_name = idx($app_info, 'name', '');
     <script type="text/javascript" src="/javascript/jquery-1.7.1.min.js"></script>
 
     <script type="text/javascript">
+      if (window==window.top) { 
+          window.location = "https://www.facebook.com/marnelaoy/app/148607351962449/";
+      }
+
       function logResponse(response) {
         if (console && console.log) {
           console.log('The response was', response);
