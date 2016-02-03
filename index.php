@@ -215,7 +215,7 @@ $app_name = idx($app_info, 'name', '');
     <div id="content">
     <div id="prize"><img src="/images/messuliput.jpg"></div>
     <div id="prize-text"><p>Arvomme kaikkien faniemme kesken viisi kahden Venemessujen-kutsukortin pakettia. Tykkää meistä facebookissa venemessuihin mennessä niin osallistut kutsukorttien arvontaan!</p>
-     <p>Arvonta suoritetaan 5.2.2014. Vielä ehdit osallistua tykkäämällä!</p><p>Messuja odotellessa voit tutustua uusiin tuotteisiimme myös verkkokaupassamme.</p>
+     <p>Arvonta suoritetaan 10.2.2014. Vielä ehdit osallistua tykkäämällä!</p><p>Messuja odotellessa voit tutustua uusiin tuotteisiimme myös verkkokaupassamme.</p>
       <p><a class="small_marnela_button" title="Osta suoraan verkkokaupasta" href="https://www.marnela.com/" target="_blank">Astu verkkokauppaan</a></p>
       <p>Nähdään venemessuilla, osastollamme 5 m 21!</p>
     </div>
